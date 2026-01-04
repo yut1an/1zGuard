@@ -5,11 +5,11 @@
 ## 截图
  
 - **主界面**：
-![home](../image/home.png)
+![home](./image/home.png)
 - **添加/编辑规则**：
-![rule](../image/add.png)
+![rule](./image/add.png)
 - **询问弹窗（Ask）**：   
-![ask](../image/ask.png)
+![ask](./image/ask.png)
  
 ## 功能概览
  
@@ -70,3 +70,4 @@
  
 - 系统级拦截可能影响稳定性，建议先在测试环境验证规则。
 - 对系统关键路径使用“询问我(Ask)”会频繁弹窗，建议更倾向使用“自动允许/自动阻止”配合更精确的规则.
+
